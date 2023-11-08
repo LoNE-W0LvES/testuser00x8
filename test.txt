@@ -1,0 +1,1 @@
+esptool --port COM11 write_flash_status --non-volatile 0
